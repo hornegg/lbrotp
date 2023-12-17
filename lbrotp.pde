@@ -64,5 +64,7 @@ void setup() {
   annotate("Gabriel", "(west)", HALF_PI);
   annotate("Uriel", "(north)", PI);
 
+  saveFrame("lbrotp.png");
+
   noLoop();
 }
